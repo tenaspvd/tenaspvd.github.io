@@ -9,7 +9,7 @@ html, body {
 }
 
 body {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-weight: 400;
 }
 
@@ -19,6 +19,7 @@ body {
   align-items: center;
   justify-content: center;
 }
+
 .buttons {
   display: flex;
   felx-direction: column;
@@ -55,15 +56,15 @@ body {
 }
 
 .btn-1:hover {
-  transform: translate(-12px, -12px);
+  transform: translate(-12px, -12px)
 }
 
 .btn-1:hover::after {
-  transform: translate(6px, 6px);
+  transform: translate(6px, 6px)
 }
 
 .btn-1:hover::before {
-  transform: translate(12px, 12px);
+  transform: translate(12px, 12px)
 }
 
 /*Button 2*/
@@ -90,13 +91,13 @@ body {
 }
 
 .btn-2:hover {
-  transform: translate(-12px, -12px);
+  transform: translate(-12px, -12px)
 }
 
 .btn-2:hover::after {
-  transform: translate(6px, 6px);
+  transform: translate(6px, 6px)
 }
 
 .btn-2:hover::before {
-  transform: translate(12px, 12px);
+  transform: translate(12px, 12px)
 }
