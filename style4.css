@@ -55,11 +55,11 @@ body {
 }
 
 .btn-1:hover {
-  transform: translate(-12px, -12px)
+  transform: translate(-12px, -12px);
 }
 
 .btn-1:hover::after {
-  transform: translate(6px, 6px)
+  transform: translate(6px, 6px);
 }
 
 .btn-1:hover::before {
