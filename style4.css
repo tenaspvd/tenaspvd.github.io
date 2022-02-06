@@ -22,10 +22,10 @@
 .btn--secondary:hover {
   background: rgb(8, 123, 238);
 }
-  .btn--accent {
+.btn--accent {
     background: rgb(8, 123, 238);
     color: white;
     }
-.btn--secondary:hover {
+.btn--accent:hover {
   background: rgb(8, 123, 238);
 }
