@@ -35,6 +35,10 @@
   -webkit-text-fill-color: black;
   -webkit-text-stroke: 1px rgb(34,44,71);
 }
+.cubano {
+  font-famly: Lato, Helvetica, sans-serif;
+}
+
 .btn {
   border-radius: 40px;
   border: 0; 
