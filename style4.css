@@ -13,19 +13,19 @@
   color: white;
 }
 .btn--primary:hover {
-  background: rgb(247, 85, 86);
+  background: rgb(230, 105, 105);
 }
 .btn--secondary {
   background: rgb(247, 85, 86);
   color: white;
 }
 .btn--secondary:hover {
-  background: rgb(247, 85, 86);
+  background: rgb(230, 105, 105);
   }
 .btn--accent {
   background: rgb(247, 85, 86);
   color: white;
 }
 .btn--accent:hover {
-  background: rgb(247, 85, 86);
+  background: rgb(230, 105, 105);
 }
