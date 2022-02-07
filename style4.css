@@ -6,12 +6,12 @@ body { color: #191970;
     margin-right: 12px;
     margin-left: 12px;
   }
-  border-radius: 40px;
+  border-radius: 30px;
   border: 0; 
   font size: 1.8rem;
   font-weight: 600;
   margin: 1rem 0;
-  padding: 2rem 3rem;
+  padding: 1rem 3rem;
   text-transform: uppercase:
     white-space: nowrap;
 }
