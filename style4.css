@@ -43,6 +43,15 @@
   width: 400px;
   color: rgb(247, 85, 86);
 }
+}
+.calzone {
+  font-famly: Lato, Helvetica, sans-serif;
+  position: center;
+  margin-bottom: 20px;
+  text-align: center;
+  width: 400px;
+  color: rgb(247, 85, 86);
+}
 
 .btn {
   border-radius: 40px;
