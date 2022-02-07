@@ -37,8 +37,9 @@
 }
 .sandwhich {
   font-famly: Lato, Helvetica, sans-serif;
-  position: absolute;
+  position: center;
   text-align: center;
+  width: 400px;
   color: rgb(247, 85, 86);
 }
 
