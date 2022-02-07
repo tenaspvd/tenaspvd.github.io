@@ -35,8 +35,11 @@
   -webkit-text-fill-color: black;
   -webkit-text-stroke: 1px rgb(34,44,71);
 }
-.cubano {
+.sandwhich {
   font-famly: Lato, Helvetica, sans-serif;
+  position: relative;
+  text-align: center;
+  color: rgb(247, 85, 86);
 }
 
 .btn {
