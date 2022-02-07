@@ -13,21 +13,21 @@ body { color: #191970;
     white-space: nowrap;
 }
 .btn--primary {
-  background: rbg(247, 85, 86);
+  background: rgb(247, 85, 86);
   color: white;
 }
 .btn--primary:hover {
-  background: rbg(247, 85, 86);
+  background: rgb(247, 85, 86);
 }
 .btn--secondary {
-  background: rbg(247, 85, 86);
+  background: rgb(247, 85, 86);
   color: white;
 }
 .btn--secondary:hover {
-  background: rbg(247, 85, 86);
+  background: rgb(247, 85, 86);
   }
 .btn--accent {
-  background: rbg(247, 85, 86);
+  background: rgb(247, 85, 86);
   color: white;
 }
 .btn--accent:hover {
