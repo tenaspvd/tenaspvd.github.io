@@ -91,3 +91,11 @@
 .btn--accent:hover {
   background: rgb(230, 105, 105);
 }
+.btn--accent1 {
+  background: rgb(247, 85, 86);
+  color: white;
+}
+.btn--accent1:hover {
+  background: rgb(230, 105, 105);
+}
+
